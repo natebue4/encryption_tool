@@ -13,3 +13,12 @@ Run the tool with:
 
 ```bash
 python3 encryption_tool.py
+🔐 AES Encryption (New in v2.0)
+
+The tool now supports:
+
+✔ AES-256-GCM encryption
+✔ AES-256-GCM decryption
+✔ PBKDF2-HMAC-SHA256 password-to-key derivation
+✔ Secure random salt + nonce generation
+✔ Strong authenticated encryption
